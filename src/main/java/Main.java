@@ -5,7 +5,7 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         int sum = 0;
-        System.out.printf("Good Morning, Universe!");
+        System.out.println("Good Morning, Universe!");
         for(int i=1;i<11;i++){
             System.out.println(i);
         }
